@@ -6,16 +6,16 @@ This project analyzes Airbnb listing prices over time, grouping prices by month 
 
 - Python Libraries: pandas, sqlite3, matplotlib
 
-- Visualization: Tableau (based on linked files)
+- Visualization: matplotlib, folium, Tableau (based on linked files)
 
 ## Process Summary
 
-1. Data Preparation: Extracts price and host registration date.
+1. Data Preparation: Extracting price and host registration date.
 
-2. Date Conversion: Converts dates for grouping.
+2. Date Conversion: Converting dates for grouping.
 
-3. Grouping & Aggregation: Calculates the average monthly price.
+3. Grouping & Aggregation: Calculating the average monthly price.
 
-4. Plotting Trends: Uses matplotlib to visualize price changes over time.
+4. Plotting Trends: Utilizing matplotlib to visualize price changes over time.
 
-5. Tableau Dashboard: Additional insights visualized in Tableau using the dataset.
+5. Tableau Dashboard: Additional insights visualized in Tableau and folium library using the dataset.
