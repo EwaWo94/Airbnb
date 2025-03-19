@@ -6,7 +6,7 @@ This project analyzes Airbnb listing prices over time, grouping prices by month 
 
 - Python Libraries: pandas, sqlite3, matplotlib
 
-- Visualization: matplotlib, folium, Tableau (based on linked files)
+- Visualization: matplotlib, folium, Tableau
 
 ## Process Summary
 
